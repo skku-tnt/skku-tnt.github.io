@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/skku-tnt"
+baseurl: ""
 url: "https://skku-tnt.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
