@@ -473,7 +473,7 @@ train.groupby(['hour'], as_index = False)['count'].mean().plot.bar()
 
 
 
-![png](assets/img/output_11_1.png)
+![png](./assets/img/output_11_1.png)
 
 
 
