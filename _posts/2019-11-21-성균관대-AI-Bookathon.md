@@ -15,3 +15,5 @@ excerpt_separator: <!--more-->
 실시한 내용:
 
 [pdf 파일](https://github.com/skku-tnt/skku-tnt.github.io/blob/master/assets/AI_hackathon_TNT.pdf)
+
+임베딩으로 바꿔야 
