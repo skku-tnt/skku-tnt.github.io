@@ -464,7 +464,7 @@ train.groupby(['hour'], as_index = False)['count'].mean().plot.bar()
 
 
 
-![png](output_11_1.png)
+![png](assets/img/output_11_1.png)
 
 
 
@@ -517,7 +517,7 @@ train[['hour_bef_temperature', 'count']].corr(method = 'pearson')
 
 
 
-![png](output_12_1.png)
+![png](assets/img/output_12_1.png)
 
 
 
@@ -586,7 +586,7 @@ train[['hour_bef_windspeed', 'count']].corr(method = 'pearson')
 
 
 
-![png](output_14_1.png)
+![png](assets/img/_14_1.png)
 
 
 
@@ -639,7 +639,7 @@ train[['hour_bef_humidity', 'count']].corr(method = 'pearson')
 
 
 
-![png](output_15_1.png)
+![png](assets/img/output_15_1.png)
 
 
 
@@ -692,7 +692,7 @@ train[['hour_bef_visibility', 'count']].corr(method = 'pearson')
 
 
 
-![png](output_16_1.png)
+![png](assets/img/output_16_1.png)
 
 
 
@@ -745,7 +745,7 @@ train[['hour_bef_ozone', 'count']].corr(method = 'pearson')
 
 
 
-![png](output_17_1.png)
+![png](assets/img/output_17_1.png)
 
 
 
@@ -798,7 +798,7 @@ train[['hour_bef_pm10', 'count']].corr(method = 'pearson')
 
 
 
-![png](output_18_1.png)
+![png](assets/img/output_18_1.png)
 
 
 
@@ -851,7 +851,7 @@ train[['hour_bef_pm2.5', 'count']].corr(method = 'pearson')
 
 
 
-![png](output_19_1.png)
+![png](assets/img/output_19_1.png)
 
 
 
