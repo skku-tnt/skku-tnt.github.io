@@ -2,13 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/pexels/circuit.jpeg" <!---배너 사진 변경-->
 tags: [About, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+TNT는 2016에 출범한 성균관대학교 교내 데이터분석 학회 입니다. 다양한 도메인에 데이터 분석과 머신러닝 알고리즘을 적용하는 것을 목표로 합니다. 
