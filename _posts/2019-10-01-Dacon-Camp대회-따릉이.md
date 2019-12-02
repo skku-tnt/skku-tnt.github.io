@@ -1,3 +1,12 @@
+---
+layout: post
+title: Dacon Camp 따릉이 대회
+tags: [competition]
+excerpt_separator: <!--more-->
+---
+
+Dacon Camp 따릉이 대회 입니다. 
+<!--more-->
 
 ## 모듈 및 파일 로드
 
