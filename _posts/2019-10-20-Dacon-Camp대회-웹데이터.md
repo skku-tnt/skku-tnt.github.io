@@ -1,4 +1,11 @@
+---
+layout: post
+title: Dacon Camp 웹데이터 대회
+tags: [competition]
+excerpt_separator: <!--more-->
+---
 
+Dacon Camp 웹데이터 대회입니다. 
 
 ```python
 import pandas as pd
