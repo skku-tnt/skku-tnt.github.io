@@ -6,6 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 Dacon Camp 웹데이터 대회입니다. 
+<!--more-->
 
 ```python
 import pandas as pd
