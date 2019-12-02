@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg" <!---배너 사진 변경-->
+feature-img: "assets/img/pexels/circuit.jpeg" 
 tags: [About, Archive]
 ---
 
