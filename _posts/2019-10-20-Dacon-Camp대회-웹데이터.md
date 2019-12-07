@@ -1,14 +1,17 @@
 ---
 layout: post
-title: Dacon Camp 웹데이터 대회
+title: "[대회] Dacon Camp 웹데이터 대회"
 tags: [competition]
 excerpt_separator: <!--more-->
 ---
 
-Dacon Camp 웹데이터 대회입니다. 
+- 대회설명: Dacon 웹 로그 데이터를 활용하여 앞으로 한 달 간 사용자의 로그인 여부를 예측
 <!--more-->
+- 대회일자: 2019.08.05 ~ 2019.09.05
+- 주관: Dacon
+- 수상실적: 1위
 
-```python
+```
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -21,7 +24,7 @@ warnings.filterwarnings('ignore')
 # 데이터
 
 
-```python
+```
 import os
 os.chdir('C:\\Users\\Kim\\Desktop\\TNT\\웹데이터')
 ```
