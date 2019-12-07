@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 성균관대 AI Bookathon
+title: "[공모전] 성균관대 AI Bookathon"
 tags: [competition]
 excerpt_separator: <!--more-->
 ---
