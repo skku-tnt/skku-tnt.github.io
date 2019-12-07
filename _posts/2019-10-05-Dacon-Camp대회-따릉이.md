@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Dacon Camp 따릉이 대회
+title: "[대회] Dacon Camp 따릉이 수요 예측 대회"
 tags: [competition]
 excerpt_separator: <!--more-->
 ---
 
-Dacon Camp 따릉이 대회 입니다. 
+- **대회설명**: 1시간 전의 기상상황을 가지고 1시간 후의 따릉이 대여수를 예측
 <!--more-->
+- **대회일자**: 2019.09.09 ~ 2019.10.05
+- **주관**: Dacon
+- **수상실적**: 1위
 
 ## 모듈 및 파일 로드
 
