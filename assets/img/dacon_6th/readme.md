@@ -1,5 +1,4 @@
 hi
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dcrQfWEzOq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![video]({https://www.youtube.com/embed/dcrQfWEzOq4})]({https://www.youtube.com/embed/dcrQfWEzOq4} "Link Title")
+[![video]({https://i.ytimg.com/vi/dcrQfWEzOq4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBm8aaYt2bm-9Ue4PouJES9HHaYCg})]({https://www.youtube.com/embed/dcrQfWEzOq4} "Link Title")
