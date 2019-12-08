@@ -182,7 +182,7 @@ plt.show()
 ```
 
 
-<img src="/_posts/output_7_0.png">
+<img src="/assets/img/output_7_0.png">
 
 
 
