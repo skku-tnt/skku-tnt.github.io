@@ -6,7 +6,7 @@ url: "https://skku-tnt.github.io"
 title: TNT                                    # site's title
 description: "Data Analysis & Machine Learning Society in SKKU"      # used by search engines
 avatar: assets/img/TNT_logo.PNG                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/img/TNT_logo.PNG                             # Icon displayed in the tab assets/favicon.ico
 
 # Header and footer text
 header_text: "성균관대 데이터 학회 TNT"                      # Change Blog header text
