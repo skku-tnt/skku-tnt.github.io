@@ -463,7 +463,7 @@ plt.show()
 ```
 
 
-<img src="output_16_0.png">
+<img src="/assets/img/output_16_0.png">
 
 
 
@@ -478,7 +478,7 @@ TNT.apple_rat.hist()
 
 
 
-<img src="output_17_1.png">
+<img src="/assets/img/output_17_1.png">
 
 
 
@@ -489,7 +489,7 @@ plt.show()
 ```
 
 
-<img src="output_18_0.png">
+<img src="/assets/img/output_18_0.png">
 
 
 
@@ -504,7 +504,8 @@ TNT.phone_rat.hist()
 
 
 
-<img src="output_19_1.png">
+<img src="/assets/img/output_19_1.png">
+
 
 
 
@@ -515,7 +516,8 @@ plt.show()
 ```
 
 
-<img src="output_20_0.png">
+<img src="/assets/img/output_20_0.png">
+
 
 
 
@@ -530,7 +532,8 @@ TNT.sub_size.hist()
 
 
 
-<img src="output_21_0.png">
+<img src="/assets/img/output_21_0.png">
+
 
 
 
@@ -545,7 +548,8 @@ sns.countplot(TNT['sub_size'])
 
 
 
-<img src="output_22_1.png">
+<img src="/assets/img/output_22_1.png">
+
 
 
 
@@ -556,7 +560,8 @@ sns.kdeplot(TNT.past_1_month_login, label = 'past_1_month_login')
 plt.show()
 ```
 
-<img src="output_23_0.png">
+<img src="/assets/img/output_23_0.png">
+
 
 
 
@@ -571,7 +576,8 @@ TNT.past_1_month_login.hist()
 
 
 
-<img src="output_24_1.png">
+<img src="/assets/img/output_24_1.png">
+
 
 
 
@@ -586,7 +592,8 @@ sns.countplot(TNT['past_1_month_login'])
 
 
 
-<img src="output_25_1.png">
+<img src="/assets/img/output_25_1.png">
+
 
 
 
@@ -597,7 +604,8 @@ sns.kdeplot(TNT.past_1_week_login, label = 'past_1_week_login')
 plt.show()
 ```
 
-<img src="output_26_0.png">
+<img src="/assets/img/output_26_0.png">
+
 
 
 
@@ -612,7 +620,8 @@ TNT.past_1_week_login.hist()
 
 
 
-<img src="output_27_1.png">
+<img src="/assets/img/output_27_1.png">
+
 
 
 
@@ -628,7 +637,8 @@ sns.countplot(TNT['past_1_week_login'])
 
 
 
-<img src="output_28_1.png">
+<img src="/assets/img/output_28_1.png">
+
 
 
 
@@ -639,7 +649,8 @@ sns.kdeplot(TNT.past_login_total, label = 'past_login_total')
 plt.show()
 ```
 
-<img src="output_29_0.png">
+<img src="/assets/img/output_29_0.png">
+
 
 
 
@@ -654,7 +665,8 @@ TNT.past_login_total.hist()
 
 
 
-<img src="output_30_1.png">
+<img src="/assets/img/output_30_1.png">
+
 
 
 
@@ -670,7 +682,8 @@ sns.countplot(TNT['past_login_total'])
 
 
 
-<img src="output_31_1.png">
+<img src="/assets/img/output_31_1.png">
+
 
 
 # 전처리
@@ -695,7 +708,8 @@ sns.countplot(TNT['Sex'])
 
 
 
-<img src="output_34_1.png">
+<img src="/assets/img/output_34_1.png">
+
 
 
 
@@ -710,7 +724,8 @@ sns.countplot(TNT['email_type'])
 
 
 
-<img src="output_35_1.png">
+<img src="/assets/img/output_35_1.png">
+
 
 
 
@@ -721,7 +736,8 @@ fig.set_size_inches(10,8)
 plt.show()
 ```
 
-<img src="output_36_0.png">
+<img src="/assets/img/output_36_0.png">
+
 
 
 
