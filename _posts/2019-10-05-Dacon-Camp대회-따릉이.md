@@ -589,8 +589,7 @@ train[['hour_bef_windspeed', 'count']].corr(method = 'pearson')
 
 
 
-
-![png](assets/img/_14_1.png)
+<img src="/assets/img/output_14_1.png">
 
 
 
