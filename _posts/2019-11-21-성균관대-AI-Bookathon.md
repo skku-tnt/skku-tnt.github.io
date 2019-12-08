@@ -12,5 +12,18 @@ excerpt_separator: <!--more-->
 - **수상실적**: 장려상
 
 
-[pdf 파일](https://github.com/skku-tnt/skku-tnt.github.io/blob/master/assets/AI_hackathon_TNT.pdf)
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_001.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_002.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_003.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_004.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_005.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_006.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_007.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_008.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_009.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_010.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_011.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_012.png">
+<img src="/assets/img/AI_bookathon/AI_hackathon_TNT_013.png">
+
 
