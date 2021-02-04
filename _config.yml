@@ -4,12 +4,12 @@ url: "https://skku-tnt.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: TNT                                    # site's title
-description: "성균관대 TNT 데이터 학회"      # used by search engines
+description: "성균관대학교 TNT 인공지능 학회"      # used by search engines
 avatar: assets/img/TNT_logo.PNG                         # Empty for no avatar in navbar
 favicon: assets/img/TNT_logo.PNG                             # Icon displayed in the tab assets/favicon.ico
 
 # Header and footer text
-header_text: "성균관대 데이터 학회 TNT"                      # Change Blog header text
+header_text: "성균관대학교 인공지능 학회 TNT"                      # Change Blog header text
 header_feature_image: assets/img/TNT_banner3.png
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
